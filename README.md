@@ -28,7 +28,7 @@ Utilizando o padrão **Bridge**, o projeto separa a abstração (Pizza) da sua i
 1. Clone o repositório:
 
 ```bash id="gk4q9y"
-git clone https://github.com/seu-usuario/pizzaria.git
+git clone https://github.com/PauloElias07/Projeto-Pizzaria-01_05.git
 ```
 
 2. Acesse a pasta do projeto:
